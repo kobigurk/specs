@@ -11,7 +11,14 @@
 
 Some day we will hopefully transform these specs into RFCs. For now, they assume a high level of familiarity with the concepts.
 
-### Work In Progress
+## Table of Contents
+
+- [Work In Progress](#work-in-progress)
+- [Specs](#specs)
+- [Contribute](#contribute)
+- [License](#license)
+
+## Work In Progress
 
 Warning: this is a work in progress. IPFS is a young system and we want to get it right. We will continue to evaluate and re-think pieces. At this point, the IPFS protocol is solid enough to write this spec and produce interoperable implementations in different languages.
 
@@ -27,7 +34,7 @@ Nothing in this spec repository is `permanent` yet. The most important pieces of
 
 Note that, as in many IPFS repositories, most of the work is happening in [the issues](https://github.com/ipfs/specs/issues/) or in [active pull requests](https://github.com/ipfs/specs/pulls/). Go take a look!
 
-### Specs
+## Specs
 
 The specs contained in this repository are:
 
